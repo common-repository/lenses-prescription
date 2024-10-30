@@ -1,0 +1,8 @@
+
+.pofw-product-options-wrapper .fieldset .field.pofw-prescription-option { width: 104px; float: left;}
+.pofw-product-options-wrapper .fieldset .field.pofw-prescription-option > label {font-size: 14px;}
+.pofw-product-options-wrapper .fieldset .field.pofw-prescription-option .control select {width: 88px;}
+
+.pofw-product-options-wrapper .fieldset .clear {
+  clear: both;
+}
